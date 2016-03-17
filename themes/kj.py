@@ -6,7 +6,7 @@ class DefaultColor:
     USERNAME_FG = 237
     USERNAME_BG = 148 # a light green color
 
-    USERNAME_ROOT_BG = 124
+    USERNAME_ROOT_BG = 31
 
     HOSTNAME_FG = 250
     HOSTNAME_BG = 238
@@ -47,7 +47,7 @@ class DefaultColor:
     GIT_BEHIND_BG = 240
     GIT_BEHIND_FG = 250
     GIT_STAGED_BG = 148
-    GIT_STAGED_FG = 15
+    GIT_STAGED_FG = 237
     GIT_NOTSTAGED_BG = 238
     GIT_NOTSTAGED_FG = 226
     GIT_UNTRACKED_BG = 238
